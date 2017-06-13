@@ -27,7 +27,7 @@
   Please use CSS to make the elements located in the div with id=text to like the image below:
 </p>
 <div class="example">
-  <img alt="Lobster Dog solution" src="static/img/example.jpg"/>
+  <img alt="Lobster Dog solution" src="./client/static/img/example.jpg"/>
 </div>
 <p>
 The html structure is done for you already. If you would like to add additional DOM elements, you can, but know that the image below was built using exactly the DOM structure that I have provided.
